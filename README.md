@@ -12,3 +12,6 @@ O jogo é ganho quando todos os quadrados que não têm minas são revelados.
 Opcionalmente, o jogador pode marcar qualquer quadrado que acredita que contém uma mina com uma bandeira, bastando para isso clicar sobre ele com o botão direito do mouse. [wikipedia](https://pt.wikipedia.org/wiki/campo_minado)
 
 # ✨tecnologias
+- [x] HTML5
+- [x] CSS3
+- [x] JavaScript
