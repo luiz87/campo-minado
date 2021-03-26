@@ -4,6 +4,13 @@
 
 Campo minado é um popular jogo de computador estilo single player. Foi inventado por Robert Donner em 1989 e tem como objectivo revelar um campo de minas sem que alguma seja detonada. 
 
+<p align="center">
+ <a href="#regras">Regras</a> |
+ <a href="#tecnologias">Tecnologias</a> |
+ <a href="#autor">Autor</a>
+</p>
+<div id="regras">
+    
 ## 📜 regras
 A área de jogo consiste num campo de quadrados retangular. Cada quadrado pode ser revelado clicando sobre ele, e se o quadrado clicado contiver uma mina, então o jogo acaba. Se, por outro lado, o quadrado não contiver uma mina, uma de duas coisas poderá acontecer:
 
@@ -13,8 +20,15 @@ A área de jogo consiste num campo de quadrados retangular. Cada quadrado pode s
 O jogo é ganho quando todos os quadrados que não têm minas são revelados.
 
 Opcionalmente, o jogador pode marcar qualquer quadrado que acredita que contém uma mina com uma bandeira, bastando para isso clicar sobre ele com o botão direito do mouse. [wikipedia](https://pt.wikipedia.org/wiki/campo_minado)
-
+</div>
+<div id="tecnologias">
+    
 ## ✨tecnologias
 - [x] HTML5
 - [x] CSS3
 - [x] JavaScript
+</div>
+
+<div id="autor">
+    
+</div>
