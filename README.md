@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🕹 Campo Minado 🕹</a>
+    🕹 Campo Minado 🕹
 </h1>
 
 Campo minado é um popular jogo de computador estilo single player. Foi inventado por Robert Donner em 1989 e tem como objectivo revelar um campo de minas sem que alguma seja detonada. 
